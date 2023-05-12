@@ -16,7 +16,7 @@ provider "azurerm" {
 #Creating a resource group
 resource "azurerm_resource_group" "myrg" {
     name = "kavish-rg"
-    location = "UK South"
+    location = "West India"
 }
 
 #Creating a virtual network
